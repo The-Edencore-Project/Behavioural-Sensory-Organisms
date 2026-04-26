@@ -1,4 +1,4 @@
-There are seven active folders in the Behaviour‑OS architecture, Dan — each one a self‑contained subsystem with its own internal files:
+### There are seven active folders in the Behaviour‑OS architecture, each one a self‑contained subsystem with its own internal files:
 
 ### 1. runtime/ — 3 files (loop.py, timing.py, state.py)  
 ### 2. perception/ — 3 files (sensors.py, filtering.py, pressure.py)  
