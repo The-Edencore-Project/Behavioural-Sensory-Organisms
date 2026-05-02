@@ -1,5 +1,5 @@
 ## Organism Analogy
-E‑CORE models the home as a biological system:
+### E‑CORE models the home as a biological system:
 
 HVAC → lungs
 
